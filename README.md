@@ -1,7 +1,6 @@
 # Sentiment_Analysis_for_E-commerce_Reviews
 
 - This project is a broad analysis of the user reviews on popular E-Commerce platforms like Blinkit, Jiomart, and Zepto. It does the sentiment analysis of the user reviews and help us in providing great insights.
-- This uses the dataset provided on the Kaggle.
 
 ## Technologies Used
 - Python: For data preprocessing, analysis, and model building.
